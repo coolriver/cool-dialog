@@ -1,0 +1,17 @@
+{
+  "name": "cool-dialog",
+  "version": "0.0.0",
+  "homepage": "https://github.com/coolriver/cool-dialog",
+  "authors": [
+    "hanjiang387 <hanjiang387@gmail.com>"
+  ],
+  "description": "a simple web dialog",
+  "main": "dist/cool-dialog.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "dialog"
+  ],
+  "license": "MIT"
+}
