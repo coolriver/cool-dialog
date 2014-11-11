@@ -6,7 +6,7 @@
     "hanjiang387 <hanjiang387@gmail.com>"
   ],
   "description": "a simple web dialog",
-  "main": "dist/cool-dialog.js",
+  "main": ["dist/cool-dialog.js","dist/style.css"],
   "moduleType": [
     "globals"
   ],
