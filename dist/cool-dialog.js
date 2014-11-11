@@ -1,4 +1,4 @@
-
+console.log("new");
 
 function myDialog(option)
 {
