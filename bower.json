@@ -10,6 +10,16 @@
   "moduleType": [
     "globals"
   ],
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
   "keywords": [
     "dialog"
   ],
